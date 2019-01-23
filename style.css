@@ -1,0 +1,36 @@
+.goblin {
+    background-image: url();
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.hoGoblin {
+    background-image: url();
+    height:100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.goblinLeader {
+    background-image: url();
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.LeoGoblin {
+    background-image: url("photos/goblin.gif");
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.goblinKing {
+    background-image: url();
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
